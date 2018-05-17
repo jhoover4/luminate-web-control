@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+selenium==3.11.0
+splinter==0.7.7
+win32core==221.36
+win32gui==221.6
